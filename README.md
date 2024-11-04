@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Dlayel, I'm a computer engineer with a bachelor's degree in Artificial Intelligence, interested in EVERYTHING related to Python & Data Science! 
+
+- 🔭 I’m currently working GenAI, with a strong focus on LLMs and RAG pipelines.
+- 👯 I’m looking to collaborate on more data science related projects, i'm positive that with the right peers we can always build fun things together. 
+- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/dlayel-aluhaideb) 
+
 <!--
 **sullvs/sullvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
